@@ -1,0 +1,36 @@
+Cluster assignments completed for all 150 instances. Here they are:
+[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 1. 1. 1. 2. 1. 2. 1. 0. 1. 2. 0. 1. 1. 1. 2. 1. 2. 2. 1. 2. 1. 1.
+ 1. 1. 1. 1. 1. 1. 1. 0. 2. 0. 2. 1. 2. 1. 1. 1. 2. 2. 2. 1. 2. 0. 2. 2.
+ 2. 1. 0. 2. 1. 2. 1. 1. 1. 1. 2. 1. 1. 1. 1. 1. 1. 2. 2. 1. 1. 1. 1. 1.
+ 1. 2. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 2. 1.
+ 1. 1. 1. 1. 1. 1.]
+
+Now calculating the new centroids...
+
+New centroids have been created. Here they are:
+[[0 0 0 0]
+ [1 0 1 0]
+ [0 0 0 0]]
+
+Cluster assignments completed for all 150 instances. Here they are:
+[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 1. 1. 1. 0. 1. 0. 1. 0. 1. 0. 0. 1. 1. 1. 0. 1. 0. 0. 1. 0. 1. 1.
+ 1. 1. 1. 1. 1. 1. 1. 0. 0. 0. 0. 1. 0. 1. 1. 1. 0. 0. 0. 1. 0. 0. 0. 0.
+ 0. 1. 0. 0. 1. 0. 1. 1. 1. 1. 0. 1. 1. 1. 1. 1. 1. 0. 0. 1. 1. 1. 1. 1.
+ 1. 0. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 0. 1.
+ 1. 1. 1. 1. 1. 1.]
+
+Now calculating the new centroids...
+
+New centroids have been created. Here they are:
+[[0 1 0 0]
+ [0 0 1 0]
+ [0 0 0 0]]
+
+Cluster membership is unchanged. Stopping criteria has been met.
+
+Calculating the Silhouette Coefficients. Please wait...
+
